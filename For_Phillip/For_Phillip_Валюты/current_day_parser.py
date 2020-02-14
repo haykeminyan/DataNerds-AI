@@ -16,7 +16,7 @@ logging.basicConfig(filename="currency_log_for_current_day.log",format='%(asctim
 logging.getLogger('requests').setLevel(logging.ERROR)
 
 current_date = datetime.today().strftime("%d.%m.%Y")
-href_addr='http://www.cbr.ru/currency_base/daily/?date_req='+current_date
+href_addr='http://www.cbr.ru/currency_base/daily/?date_req='+str(current_date)
 ua = UserAgent()
 headers = {'User-Agent':str(ua.chrome)}
 def switcher(href_addr):
