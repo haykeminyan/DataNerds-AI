@@ -21,9 +21,9 @@
 ### Информация
 | Названия | Ссылки |
 | ------ | ------ |
-| GitHub | [https://github.com/haykeminyan][PlGh] |
-| Linkedin | [https://www.linkedin.com/in/hayk-eminyan-845323193][PlDb] |
-| Facebook | [https://www.facebook.com/haykeminyan][PlGh] |
-| Vk | [https://vk.com/haykeminyan][PlGd] |
-| Instagram | [https://www.instagram.com/haykeminyan/][PlOd] |
+| GitHub | [https://github.com/haykeminyan] |
+| Linkedin | [https://www.linkedin.com/in/hayk-eminyan-845323193] |
+| Facebook | [https://www.facebook.com/haykeminyan] |
+| Vk | [https://vk.com/haykeminyan] |
+| Instagram | [https://www.instagram.com/haykeminyan/] |
 
