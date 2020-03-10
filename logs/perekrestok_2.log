@@ -1,0 +1,874 @@
+31-Jan-20 12:40:10 - The length of array with categories_names 1 level is: 23
+31-Jan-20 12:40:10 - The length of array with categories_href 1 level is: 23
+31-Jan-20 12:40:10 - Category: ['Скидки месяца', 'Овощи, фрукты, грибы, ягоды', 'Рыба, икра, морепродукты', 'Птица, мясо, деликатесы', 'Молоко, сыр, яйца', 'Воды, соки, напитки', 'Чай, кофе, сахар', 'Соусы, орехи, консервы', 'Хлеб, сладости, снеки', 'Макароны, крупы, специи', 'Готовая еда и наборы для готовки', 'Вкусные подборки', 'Здоровый выбор', 'Замороженные продукты', 'Кухни мира', 'Товары для мам и детей', 'Дом, сад, кухня, авто', 'Красота, гигиена, бытовая химия', 'Бытовая техника', 'Посуда', 'Система нагревания IQOS', 'Алкоголь', 'Зоотовары']
+31-Jan-20 12:40:44 - #Pages:1  #Goods:4          
+31-Jan-20 12:40:44 - #Category_2_name:  Рыба, икра, морепродукты Counter_2_level: 1           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/ryba-ikra-moreprodukty
+31-Jan-20 12:40:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:40:47 - #Pages:2  #Goods:33         
+31-Jan-20 12:40:47 - #Category_2_name:  Птица, мясо, деликатесы Counter_2_level: 2           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/ptitsa-myaso-delikatesy
+31-Jan-20 12:40:47 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:40:53 - #Pages:5  #Goods:94         
+31-Jan-20 12:40:53 - #Category_2_name:  Молоко, сыр, яйца Counter_2_level: 3           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/moloko-syr-yaytsa
+31-Jan-20 12:40:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:40:57 - #Pages:3  #Goods:51         
+31-Jan-20 12:40:57 - #Category_2_name:  Соки, воды, напитки Counter_2_level: 4           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/soki-vody-napitki
+31-Jan-20 12:40:57 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:17 - #Pages:3  #Goods:59         
+31-Jan-20 12:41:17 - #Category_2_name:  Чай, кофе, сахар Counter_2_level: 5           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/chay-kofe-sahar
+31-Jan-20 12:41:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:24 - #Pages:5  #Goods:92         
+31-Jan-20 12:41:24 - #Category_2_name:  Соусы, орехи, консервы Counter_2_level: 6           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/sousy-orehi-konservy
+31-Jan-20 12:41:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:33 - #Pages:7  #Goods:135        
+31-Jan-20 12:41:33 - #Category_2_name:  Хлеб, сладости, снеки Counter_2_level: 7           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/hleb-sladosti-sneki
+31-Jan-20 12:41:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:38 - #Pages:3  #Goods:58         
+31-Jan-20 12:41:38 - #Category_2_name:  Макароны, крупы, специи Counter_2_level: 8           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/makarony-krupy-spetsii
+31-Jan-20 12:41:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:41 - #Pages:2  #Goods:17         
+31-Jan-20 12:41:41 - #Category_2_name:  Замороженные продукты Counter_2_level: 9           #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/zamorojennye-produkty
+31-Jan-20 12:41:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:47 - #Pages:5  #Goods:82         
+31-Jan-20 12:41:47 - #Category_2_name:  Товары для мам и детей Counter_2_level: 10          #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/tovary-dlya-mam-i-detey
+31-Jan-20 12:41:47 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:49 - #Pages:1  #Goods:21         
+31-Jan-20 12:41:49 - #Category_2_name:  Зоотовары   Counter_2_level: 11          #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/zootovary
+31-Jan-20 12:41:49 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:52 - #Pages:1  #Goods:19         
+31-Jan-20 12:41:52 - #Category_2_name:  Дом, сад, кухня, авто Counter_2_level: 12          #href_2_level:https://www.perekrestok.ru/catalog/skidki-mesyatsa/dom-sad-kuhnya-avto
+31-Jan-20 12:41:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:59 - #Pages:5  #Goods:103        
+31-Jan-20 12:41:59 - #Category_2_name:  Фрукты      Counter_2_level: 13          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/frukty
+31-Jan-20 12:41:59 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:06 - #Pages:6  #Goods:119        
+31-Jan-20 12:42:06 - #Category_2_name:  Овощи       Counter_2_level: 14          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/ovoschi
+31-Jan-20 12:42:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:09 - #Pages:2  #Goods:44         
+31-Jan-20 12:42:09 - #Category_2_name:  Грибы       Counter_2_level: 15          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/griby
+31-Jan-20 12:42:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:12 - #Pages:2  #Goods:23         
+31-Jan-20 12:42:12 - #Category_2_name:  Ягоды       Counter_2_level: 16          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/yagody
+31-Jan-20 12:42:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:25 - #Pages:9  #Goods:199        
+31-Jan-20 12:42:25 - #Category_2_name:  Орехи и сухофрукты Counter_2_level: 17          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/orehi-i-suhofrukty
+31-Jan-20 12:42:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:30 - #Pages:4  #Goods:70         
+31-Jan-20 12:42:30 - #Category_2_name:  Зелень и  салаты Counter_2_level: 18          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/zelen-i-salaty
+31-Jan-20 12:42:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:33 - #Pages:2  #Goods:31         
+31-Jan-20 12:42:33 - #Category_2_name:  Замороженные ягоды Counter_2_level: 19          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/zamorojennye-yagody
+31-Jan-20 12:42:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:38 - #Pages:4  #Goods:76         
+31-Jan-20 12:42:38 - #Category_2_name:  Замороженные овощи Counter_2_level: 20          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/zamorojennye-ovoschi-i-frukty
+31-Jan-20 12:42:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:41 - #Pages:1  #Goods:21         
+31-Jan-20 12:42:41 - #Category_2_name:  Экзотические фрукты Counter_2_level: 21          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/ekzoticheskie-frukty
+31-Jan-20 12:42:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:45 - #Pages:3  #Goods:63         
+31-Jan-20 12:42:45 - #Category_2_name:  Отборные овощи, фрукты и ягоды Counter_2_level: 22          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/otbornye-ovoschi-frukty-i-yagody
+31-Jan-20 12:42:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:51 - #Pages:4  #Goods:70         
+31-Jan-20 12:42:51 - #Category_2_name:  Соленья     Counter_2_level: 23          #href_2_level:https://www.perekrestok.ru/catalog/ovoschi-frukty-griby/solenya
+31-Jan-20 12:42:51 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:53 - #Pages:1  #Goods:5          
+31-Jan-20 12:42:53 - #Category_2_name:  Наше производство Counter_2_level: 24          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/nashe-proizvodstvo
+31-Jan-20 12:42:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:42:56 - #Pages:2  #Goods:32         
+31-Jan-20 12:42:56 - #Category_2_name:  Рыба и морепродукты Ла Маре Counter_2_level: 25          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ryba-i-moreprodukty-la-mare
+31-Jan-20 12:42:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:00 - #Pages:4  #Goods:73         
+31-Jan-20 12:43:00 - #Category_2_name:  Икра        Counter_2_level: 26          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ikra
+31-Jan-20 12:43:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:04 - #Pages:2  #Goods:29         
+31-Jan-20 12:43:04 - #Category_2_name:  Охлажденная рыба Counter_2_level: 27          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ryba-ohlajdennaya
+31-Jan-20 12:43:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:08 - #Pages:3  #Goods:51         
+31-Jan-20 12:43:08 - #Category_2_name:  Морепродукты и креветки Counter_2_level: 28          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/moreprodukty-i-raki
+31-Jan-20 12:43:08 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:11 - #Pages:2  #Goods:34         
+31-Jan-20 12:43:11 - #Category_2_name:  Крабовое мясо и палочки Counter_2_level: 29          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/krabovoe-myaso-i-palochki
+31-Jan-20 12:43:11 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:15 - #Pages:3  #Goods:50         
+31-Jan-20 12:43:15 - #Category_2_name:  Сельдь      Counter_2_level: 30          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/seld
+31-Jan-20 12:43:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:19 - #Pages:3  #Goods:57         
+31-Jan-20 12:43:19 - #Category_2_name:  Рыбные стейки и филе Counter_2_level: 31          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/rybnye-steyki-i-file
+31-Jan-20 12:43:19 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:28 - #Pages:6  #Goods:130        
+31-Jan-20 12:43:28 - #Category_2_name:  Рыбные консервы и кулинария Counter_2_level: 32          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/rybnaya-kulinariya
+31-Jan-20 12:43:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:35 - #Pages:5  #Goods:106        
+31-Jan-20 12:43:35 - #Category_2_name:  Соленая, маринованная рыба Counter_2_level: 33          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ryba-solenaya
+31-Jan-20 12:43:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:39 - We have similar 2 <<name=Форель Русское море филе-кусок подкопченная 300г>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 12:43:40 - #Pages:3  #Goods:56         
+31-Jan-20 12:43:40 - #Category_2_name:  Копченая рыба Counter_2_level: 34          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ryba-kopchenaya
+31-Jan-20 12:43:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:43 - #Pages:2  #Goods:28         
+31-Jan-20 12:43:43 - #Category_2_name:  Вяленая, сушеная рыба и морепродукты Counter_2_level: 35          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/ryba-vyalenaya-sushenaya
+31-Jan-20 12:43:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:47 - #Pages:2  #Goods:47         
+31-Jan-20 12:43:47 - #Category_2_name:  Пресервы    Counter_2_level: 36          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/preservy
+31-Jan-20 12:43:47 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:48 - #Pages:1  #Goods:7          
+31-Jan-20 12:43:48 - #Category_2_name:  Рыбные полуфабрикаты Counter_2_level: 37          #href_2_level:https://www.perekrestok.ru/catalog/ryba-i-moreprodukty/rybnye-polufabrikaty
+31-Jan-20 12:43:48 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:51 - #Pages:1  #Goods:12         
+31-Jan-20 12:43:51 - #Category_2_name:  Наше производство Counter_2_level: 38          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/nashe-proizvodstvo
+31-Jan-20 12:43:51 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:57 - #Pages:5  #Goods:84         
+31-Jan-20 12:43:57 - #Category_2_name:  Мясо птицы  Counter_2_level: 39          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/myaso-ptitsy
+31-Jan-20 12:43:57 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:43:59 - #Pages:1  #Goods:16         
+31-Jan-20 12:43:59 - #Category_2_name:  Фарш        Counter_2_level: 40          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/farsh
+31-Jan-20 12:43:59 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:07 - #Pages:5  #Goods:83         
+31-Jan-20 12:44:07 - #Category_2_name:  Говядина    Counter_2_level: 41          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/govyadina
+31-Jan-20 12:44:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:10 - #Pages:2  #Goods:29         
+31-Jan-20 12:44:10 - #Category_2_name:  Мраморная говядина Counter_2_level: 42          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/mramornaya-govyadina
+31-Jan-20 12:44:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:13 - #Pages:3  #Goods:42         
+31-Jan-20 12:44:13 - #Category_2_name:  Стейки      Counter_2_level: 43          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/steyki
+31-Jan-20 12:44:13 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:18 - #Pages:3  #Goods:54         
+31-Jan-20 12:44:18 - #Category_2_name:  Свинина     Counter_2_level: 44          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/svinina
+31-Jan-20 12:44:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:20 - #Pages:1  #Goods:6          
+31-Jan-20 12:44:20 - #Category_2_name:  Баранина    Counter_2_level: 45          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/baranina
+31-Jan-20 12:44:20 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:22 - #Pages:1  #Goods:13         
+31-Jan-20 12:44:22 - #Category_2_name:  Телятина    Counter_2_level: 46          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/telyatina
+31-Jan-20 12:44:22 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:38 - We have similar 2 <<name=Колбаса Рублевский Докторская вареная 450г>> in 12  page!!!!!!!!!!!!!
+31-Jan-20 12:44:40 - #Pages:13 #Goods:298        
+31-Jan-20 12:44:40 - #Category_2_name:  Колбасы, ветчина Counter_2_level: 47          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/kolbasy-vetchina
+31-Jan-20 12:44:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:45 - #Pages:4  #Goods:85         
+31-Jan-20 12:44:45 - #Category_2_name:  Сосиски, сардельки, шпикачки Counter_2_level: 48          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/sosiski-sardelki-shpikachki
+31-Jan-20 12:44:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:55 - #Pages:6  #Goods:139        
+31-Jan-20 12:44:55 - #Category_2_name:  Деликатесы и копчености Counter_2_level: 49          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/delikatesy-i-kopchenosti
+31-Jan-20 12:44:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:58 - #Pages:1  #Goods:0          
+31-Jan-20 12:44:58 - #Category_2_name:  Утка, перепела Counter_2_level: 50          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/utka-perepela
+31-Jan-20 12:44:58 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:01 - #Pages:1  #Goods:16         
+31-Jan-20 12:45:01 - #Category_2_name:  Субпродукты Counter_2_level: 51          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/subprodukty
+31-Jan-20 12:45:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:07 - #Pages:4  #Goods:63         
+31-Jan-20 12:45:07 - #Category_2_name:  Полуфабрикаты Counter_2_level: 52          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/polufabrikaty
+31-Jan-20 12:45:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:11 - #Pages:2  #Goods:37         
+31-Jan-20 12:45:11 - #Category_2_name:  Паштеты, зельцы Counter_2_level: 53          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/pashtety-zeltsy
+31-Jan-20 12:45:11 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:20 - #Pages:7  #Goods:127        
+31-Jan-20 12:45:20 - #Category_2_name:  Готовые блюда Counter_2_level: 54          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/gotovye-blyuda
+31-Jan-20 12:45:20 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:25 - #Pages:3  #Goods:59         
+31-Jan-20 12:45:25 - #Category_2_name:  Шашлык и гриль Counter_2_level: 55          #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/shashlyk-i-gril
+31-Jan-20 12:45:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:30 - #Pages:3  #Goods:24         
+31-Jan-20 12:45:30 - #Category_2_name:  Зеленая Линия Counter_2_level: 56          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/zelenaya-liniya
+31-Jan-20 12:45:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:34 - #Pages:2  #Goods:24         
+31-Jan-20 12:45:34 - #Category_2_name:  ВкусВилл    Counter_2_level: 57          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/vkusvill
+31-Jan-20 12:45:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:43 - #Pages:6  #Goods:120        
+31-Jan-20 12:45:43 - #Category_2_name:  Молоко      Counter_2_level: 58          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/moloko
+31-Jan-20 12:45:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:45 - #Pages:2  #Goods:23         
+31-Jan-20 12:45:45 - #Category_2_name:  Яйцо        Counter_2_level: 59          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/yaytso
+31-Jan-20 12:45:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:05 - #Pages:13 #Goods:274        
+31-Jan-20 12:46:05 - #Category_2_name:  Творог, сырки Counter_2_level: 60          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/tvorog-syrki
+31-Jan-20 12:46:05 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:09 - #Pages:3  #Goods:63         
+31-Jan-20 12:46:09 - #Category_2_name:  Масло, маргарин, спред Counter_2_level: 61          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/slivochnoe-maslo-i-margarin
+31-Jan-20 12:46:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:15 - #Pages:4  #Goods:70         
+31-Jan-20 12:46:15 - #Category_2_name:  Кефир       Counter_2_level: 62          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/kefir
+31-Jan-20 12:46:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:28 - #Pages:10 #Goods:207        
+31-Jan-20 12:46:28 - #Category_2_name:  Кисломолочные продукты и закваски Counter_2_level: 63          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/kislomolochnye-produkty
+31-Jan-20 12:46:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:34 - #Pages:4  #Goods:67         
+31-Jan-20 12:46:34 - #Category_2_name:  Сметана     Counter_2_level: 64          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/smetana
+31-Jan-20 12:46:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:37 - #Pages:2  #Goods:40         
+31-Jan-20 12:46:37 - #Category_2_name:  Сливки      Counter_2_level: 65          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/slivki
+31-Jan-20 12:46:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:47:10 - #Pages:24 #Goods:539        
+31-Jan-20 12:47:10 - #Category_2_name:  Йогурты, творожки, десерты Counter_2_level: 66          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/yogurty-i-deserty
+31-Jan-20 12:47:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:47:21 - #Pages:8  #Goods:174        
+31-Jan-20 12:47:21 - #Category_2_name:  Детские молочные продукты Counter_2_level: 67          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/detskie-molochnye-produkty
+31-Jan-20 12:47:21 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:47:27 - #Pages:4  #Goods:71         
+31-Jan-20 12:47:27 - #Category_2_name:  Молочные коктейли и лакомства Counter_2_level: 68          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/molochnye-kokteyli
+31-Jan-20 12:47:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:47:40 - #Pages:10 #Goods:223        
+31-Jan-20 12:47:40 - #Category_2_name:  Мороженое   Counter_2_level: 69          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/morojenoe
+31-Jan-20 12:47:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:47:43 - #Pages:1  #Goods:22         
+31-Jan-20 12:47:43 - #Category_2_name:  Молоко сгущеное Counter_2_level: 70          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/sguschennoe-moloko
+31-Jan-20 12:47:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:48:16 - #Pages:22 #Goods:477        
+31-Jan-20 12:48:16 - #Category_2_name:  Сыры        Counter_2_level: 71          #href_2_level:https://www.perekrestok.ru/catalog/moloko-syr-yaytsa/syry
+31-Jan-20 12:48:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:48:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:48:25 - We have similar 2 <<name=Вода Нарзан минеральная лечебно-столовая газированная 500мл>> in 5  page!!!!!!!!!!!!!
+31-Jan-20 12:48:32 - #Pages:10 #Goods:202        
+31-Jan-20 12:48:32 - #Category_2_name:  Вода        Counter_2_level: 72          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/vody-mineralnye-pitevye
+31-Jan-20 12:48:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:48:51 - #Pages:14 #Goods:299        
+31-Jan-20 12:48:51 - #Category_2_name:  Соки, нектары Counter_2_level: 73          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/soki-nektary
+31-Jan-20 12:48:51 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:48:53 - #Pages:1  #Goods:10         
+31-Jan-20 12:48:53 - #Category_2_name:  Квас и квасные напитки Counter_2_level: 74          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/kvas-i-kvasnye-napitki
+31-Jan-20 12:48:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:06 - #Pages:10 #Goods:208        
+31-Jan-20 12:49:06 - #Category_2_name:  Газированные напитки Counter_2_level: 75          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/gazirovannye-napitki
+31-Jan-20 12:49:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:10 - We have similar 2 <<name=Напиток Adrenaline Juicy энергетический Апельсиновая энергия 449мл>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 12:49:11 - #Pages:3  #Goods:54         
+31-Jan-20 12:49:11 - #Category_2_name:  Энергетические напитки Counter_2_level: 76          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/energeticheskie-napitki
+31-Jan-20 12:49:11 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:15 - #Pages:3  #Goods:53         
+31-Jan-20 12:49:15 - #Category_2_name:  Морсы, узвары, кисели, компоты Counter_2_level: 77          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/morsy-uzvary-kiseli-kompoty
+31-Jan-20 12:49:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:19 - #Pages:3  #Goods:50         
+31-Jan-20 12:49:19 - #Category_2_name:  Холодный чай, комбуча Counter_2_level: 78          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/chaynye-napitki
+31-Jan-20 12:49:19 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:26 - #Pages:5  #Goods:100        
+31-Jan-20 12:49:26 - #Category_2_name:  Сокосодержащие напитки, смузи Counter_2_level: 79          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/sokosoderjaschie-napitki
+31-Jan-20 12:49:26 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:30 - #Pages:3  #Goods:51         
+31-Jan-20 12:49:30 - #Category_2_name:  Растительные напитки и молоко Counter_2_level: 80          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/rastitelnye-napitki-i-moloko
+31-Jan-20 12:49:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:32 - We have similar 2 <<name=Напиток пивной Amstel Натур Лимон безалкогольное 0,0% 450мл>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 12:49:32 - #Pages:1  #Goods:17         
+31-Jan-20 12:49:32 - #Category_2_name:  Безалкогольное пиво Counter_2_level: 81          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/bezalkogolnoe-pivo
+31-Jan-20 12:49:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:34 - #Pages:1  #Goods:4          
+31-Jan-20 12:49:34 - #Category_2_name:  Напитки диабетические Counter_2_level: 82          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/napitki-diabeticheskie
+31-Jan-20 12:49:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:49:36 - #Pages:1  #Goods:11         
+31-Jan-20 12:49:36 - #Category_2_name:  Полезные натуральные напитки Counter_2_level: 83          #href_2_level:https://www.perekrestok.ru/catalog/soki-vody-napitki/green-zone
+31-Jan-20 12:49:36 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:50:12 - #Pages:22 #Goods:501        
+31-Jan-20 12:50:12 - #Category_2_name:  Чай         Counter_2_level: 84          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/chay
+31-Jan-20 12:50:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:50:52 - #Pages:18 #Goods:401        
+31-Jan-20 12:50:52 - #Category_2_name:  Кофе        Counter_2_level: 85          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/kofe
+31-Jan-20 12:50:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:50:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:50:54 - We have similar 2 <<name=Какао-напиток Nesquik Opti-Start 500г>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 12:50:55 - #Pages:2  #Goods:25         
+31-Jan-20 12:50:55 - #Category_2_name:  Какао, шоколад Counter_2_level: 86          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/kakao-tsikoriy-rastvorimyy-shokolad
+31-Jan-20 12:50:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:50:57 - #Pages:1  #Goods:22         
+31-Jan-20 12:50:57 - #Category_2_name:  Сахар       Counter_2_level: 87          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/sahar
+31-Jan-20 12:50:57 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:00 - #Pages:2  #Goods:26         
+31-Jan-20 12:51:00 - #Category_2_name:  Подсластители и заменители сахара Counter_2_level: 88          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/podslastiteli-i-zameniteli-sahara
+31-Jan-20 12:51:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:03 - #Pages:1  #Goods:16         
+31-Jan-20 12:51:03 - #Category_2_name:  Натуральный чай, кофе, какао Counter_2_level: 89          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/green-zone
+31-Jan-20 12:51:03 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:05 - #Pages:1  #Goods:12         
+31-Jan-20 12:51:05 - #Category_2_name:  Цикорий     Counter_2_level: 90          #href_2_level:https://www.perekrestok.ru/catalog/kofe-chay-sahar/tsikoriy
+31-Jan-20 12:51:05 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:25 - #Pages:14 #Goods:325        
+31-Jan-20 12:51:25 - #Category_2_name:  Соусы       Counter_2_level: 91          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/sousy
+31-Jan-20 12:51:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:33 - #Pages:5  #Goods:97         
+31-Jan-20 12:51:33 - #Category_2_name:  Орехи       Counter_2_level: 92          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/orehi
+31-Jan-20 12:51:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:40 - #Pages:6  #Goods:110        
+31-Jan-20 12:51:40 - #Category_2_name:  Семечки, сухофрукты Counter_2_level: 93          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/semechki-suhofrukty
+31-Jan-20 12:51:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:48 - #Pages:6  #Goods:121        
+31-Jan-20 12:51:48 - #Category_2_name:  Варенье, джемы, сиропы Counter_2_level: 94          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/varene-djemy-siropy
+31-Jan-20 12:51:48 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:51:53 - #Pages:3  #Goods:55         
+31-Jan-20 12:51:53 - #Category_2_name:  Майонез     Counter_2_level: 95          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/mayonez
+31-Jan-20 12:51:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:00 - #Pages:5  #Goods:112        
+31-Jan-20 12:52:00 - #Category_2_name:  Рыбные консервы Counter_2_level: 96          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/rybnye-konservy
+31-Jan-20 12:52:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:07 - #Pages:4  #Goods:82         
+31-Jan-20 12:52:07 - #Category_2_name:  Мясные консервы Counter_2_level: 97          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/myasnye-konservy
+31-Jan-20 12:52:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:10 - #Pages:2  #Goods:46         
+31-Jan-20 12:52:10 - #Category_2_name:  Горчица, хрен Counter_2_level: 98          #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/gorchitsa-hren
+31-Jan-20 12:52:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:12 - We have similar 2 <<name=Кетчуп Heinz Томатный 570г>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 12:52:16 - #Pages:4  #Goods:78         
+31-Jan-20 12:52:16 - #Category_2_name:  Томатные пасты, кетчуп Counter_2_level: 99          #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/tomatnye-pasty-ketchup
+31-Jan-20 12:52:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:36 - #Pages:15 #Goods:340        
+31-Jan-20 12:52:36 - #Category_2_name:  Овощные консервы Counter_2_level: 100         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/ovoschnye-konservy
+31-Jan-20 12:52:36 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:39 - #Pages:2  #Goods:43         
+31-Jan-20 12:52:39 - #Category_2_name:  Мёд         Counter_2_level: 101         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/med
+31-Jan-20 12:52:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:42 - #Pages:1  #Goods:22         
+31-Jan-20 12:52:42 - #Category_2_name:  Сгущенка, молочные консервы Counter_2_level: 102         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/molochnye-konservy
+31-Jan-20 12:52:42 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:46 - #Pages:3  #Goods:49         
+31-Jan-20 12:52:46 - #Category_2_name:  Фруктовые и ягодные консервы Counter_2_level: 103         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/fruktovye-i-yagodnye-konservy
+31-Jan-20 12:52:46 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:48 - #Pages:1  #Goods:7          
+31-Jan-20 12:52:48 - #Category_2_name:  Органические соусы и консервы Counter_2_level: 104         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/green-zone
+31-Jan-20 12:52:48 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:53 - #Pages:4  #Goods:75         
+31-Jan-20 12:52:53 - #Category_2_name:  Печем сами  Counter_2_level: 105         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pechem-sami
+31-Jan-20 12:52:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:53:01 - #Pages:6  #Goods:124        
+31-Jan-20 12:53:01 - #Category_2_name:  Хлеб, лаваш, лепешки Counter_2_level: 106         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/hleb-lavash-lepeshki
+31-Jan-20 12:53:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:53:16 - #Pages:10 #Goods:211        
+31-Jan-20 12:53:16 - #Category_2_name:  Пироги, сдоба, кексы, рулеты Counter_2_level: 107         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pirogi-sdoba-keksy-rulety
+31-Jan-20 12:53:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:53:28 - #Pages:8  #Goods:182        
+31-Jan-20 12:53:28 - #Category_2_name:  Торты, пирожные Counter_2_level: 108         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/torty-pirojnye
+31-Jan-20 12:53:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:54:00 - #Pages:21 #Goods:459        
+31-Jan-20 12:54:00 - #Category_2_name:  Конфеты     Counter_2_level: 109         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/konfety
+31-Jan-20 12:54:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:54:24 - #Pages:17 #Goods:373        
+31-Jan-20 12:54:24 - #Category_2_name:  Шоколад, батончики Counter_2_level: 110         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/shokolad-batonchiki
+31-Jan-20 12:54:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:54:36 - #Pages:9  #Goods:194        
+31-Jan-20 12:54:36 - #Category_2_name:  Чипсы, снеки, попкорн Counter_2_level: 111         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/chipsy-sneki
+31-Jan-20 12:54:36 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:04 - #Pages:18 #Goods:400        
+31-Jan-20 12:55:04 - #Category_2_name:  Печенье, крекер, вафли, пряники Counter_2_level: 112         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/pechene-kreker-vafli-pryaniki
+31-Jan-20 12:55:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:18 - #Pages:10 #Goods:198        
+31-Jan-20 12:55:18 - #Category_2_name:  Сушки, сухари, хлебцы Counter_2_level: 113         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/sushki-suhari-hlebtsy-tosty
+31-Jan-20 12:55:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:27 - #Pages:7  #Goods:145        
+31-Jan-20 12:55:27 - #Category_2_name:  Зефир, мармелад, пастила Counter_2_level: 114         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/zefir-marmelad-pastila
+31-Jan-20 12:55:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:32 - #Pages:3  #Goods:45         
+31-Jan-20 12:55:32 - #Category_2_name:  Шоколадные и арахисовые пасты Counter_2_level: 115         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/shokoladnye-i-arahisovye-pasty
+31-Jan-20 12:55:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:37 - #Pages:4  #Goods:70         
+31-Jan-20 12:55:37 - #Category_2_name:  Восточные сладости, халва Counter_2_level: 116         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/vostochnye-sladosti-halva
+31-Jan-20 12:55:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:41 - #Pages:3  #Goods:57         
+31-Jan-20 12:55:41 - #Category_2_name:  Жевательная резинка Counter_2_level: 117         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/jevatelnaya-rezinka
+31-Jan-20 12:55:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:53 - #Pages:9  #Goods:186        
+31-Jan-20 12:55:53 - #Category_2_name:  Диабетическая продукция Counter_2_level: 118         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/diabeticheskaya-produktsiya
+31-Jan-20 12:55:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:55:56 - #Pages:2  #Goods:43         
+31-Jan-20 12:55:56 - #Category_2_name:  Мёд         Counter_2_level: 119         #href_2_level:https://www.perekrestok.ru/catalog/konservy-orehi-sousy/med
+31-Jan-20 12:55:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:00 - #Pages:3  #Goods:37         
+31-Jan-20 12:56:00 - #Category_2_name:  Полезные сладости Counter_2_level: 120         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/green-zone
+31-Jan-20 12:56:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:03 - #Pages:1  #Goods:18         
+31-Jan-20 12:56:03 - #Category_2_name:  Ritter Sport Counter_2_level: 121         #href_2_level:https://www.perekrestok.ru/catalog/hleb-sladosti-sneki/ritter-sport
+31-Jan-20 12:56:03 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:12 - #Pages:6  #Goods:125        
+31-Jan-20 12:56:12 - #Category_2_name:  Каши        Counter_2_level: 122         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/kashi
+31-Jan-20 12:56:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:18 - #Pages:4  #Goods:72         
+31-Jan-20 12:56:18 - #Category_2_name:  Мука        Counter_2_level: 123         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/muka
+31-Jan-20 12:56:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:32 - #Pages:9  #Goods:184        
+31-Jan-20 12:56:32 - #Category_2_name:  Макароны, паста Counter_2_level: 124         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/makaronnye-izdeliya
+31-Jan-20 12:56:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:44 - #Pages:8  #Goods:155        
+31-Jan-20 12:56:44 - #Category_2_name:  Крупы и бобовые Counter_2_level: 125         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/krupy-i-bobovye
+31-Jan-20 12:56:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:04 - #Pages:15 #Goods:342        
+31-Jan-20 12:57:04 - #Category_2_name:  Специи и приправы Counter_2_level: 126         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/spetsii-i-pripravy
+31-Jan-20 12:57:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:12 - #Pages:5  #Goods:108        
+31-Jan-20 12:57:12 - #Category_2_name:  Растительное масло Counter_2_level: 127         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/maslo-rastitelnoe
+31-Jan-20 12:57:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:19 - #Pages:5  #Goods:91         
+31-Jan-20 12:57:19 - #Category_2_name:  Подушечки, мюсли, хлопья Counter_2_level: 128         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/suhie-zavtraki-myusli
+31-Jan-20 12:57:19 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:22 - #Pages:2  #Goods:38         
+31-Jan-20 12:57:22 - #Category_2_name:  Соль        Counter_2_level: 129         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/sol
+31-Jan-20 12:57:22 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:55 - We have similar 2 <<name=Уксус СП Мирный Бальзамический 6% 250мл>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 12:57:57 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:57 - We have similar 2 <<name=Уксус СП Мирный Бальзамический 6% 250мл>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 12:57:57 - #Pages:2  #Goods:24         
+31-Jan-20 12:57:57 - #Category_2_name:  Уксус       Counter_2_level: 130         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/uksus
+31-Jan-20 12:57:57 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:11 - #Pages:8  #Goods:175        
+31-Jan-20 12:58:11 - #Category_2_name:  Компоненты для выпечки Counter_2_level: 131         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/suhie-komponenty-i-smesi
+31-Jan-20 12:58:11 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:15 - #Pages:2  #Goods:46         
+31-Jan-20 12:58:15 - #Category_2_name:  Горчица, хрен Counter_2_level: 132         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/gorchitsa-hren
+31-Jan-20 12:58:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:16 - #Pages:1  #Goods:4          
+31-Jan-20 12:58:16 - #Category_2_name:  Грибы сушеные Counter_2_level: 133         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/griby-sushenye
+31-Jan-20 12:58:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:25 - #Pages:7  #Goods:134        
+31-Jan-20 12:58:25 - #Category_2_name:  Продукты быстрого приготовления Counter_2_level: 134         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/produkty-bystrogo-prigotovleniya
+31-Jan-20 12:58:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:32 - #Pages:5  #Goods:99         
+31-Jan-20 12:58:32 - #Category_2_name:  Диабетическая продукция Counter_2_level: 135         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/diabeticheskaya-produktsiya
+31-Jan-20 12:58:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:40 - #Pages:6  #Goods:118        
+31-Jan-20 12:58:40 - #Category_2_name:  Семечки, сухофрукты Counter_2_level: 136         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/semechki-suhofrukty
+31-Jan-20 12:58:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:45 - #Pages:3  #Goods:47         
+31-Jan-20 12:58:45 - #Category_2_name:  Полезные крупы, специи, каши Counter_2_level: 137         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/green-zone
+31-Jan-20 12:58:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:50 - #Pages:3  #Goods:24         
+31-Jan-20 12:58:50 - #Category_2_name:  Мистраль    Counter_2_level: 138         #href_2_level:https://www.perekrestok.ru/catalog/makarony-krupy-spetsii/mistral
+31-Jan-20 12:58:50 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:58:52 - #Pages:1  #Goods:11         
+31-Jan-20 12:58:52 - #Category_2_name:  Наше производство Counter_2_level: 139         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/nashe-proizvodstvo
+31-Jan-20 12:58:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:00 - #Pages:5  #Goods:84         
+31-Jan-20 12:59:00 - #Category_2_name:  Мясо птицы  Counter_2_level: 140         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/myaso-ptitsy
+31-Jan-20 12:59:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:02 - #Pages:1  #Goods:16         
+31-Jan-20 12:59:02 - #Category_2_name:  Фарш        Counter_2_level: 141         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/farsh
+31-Jan-20 12:59:02 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:10 - #Pages:5  #Goods:83         
+31-Jan-20 12:59:10 - #Category_2_name:  Говядина    Counter_2_level: 142         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/govyadina
+31-Jan-20 12:59:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:14 - #Pages:2  #Goods:29         
+31-Jan-20 12:59:14 - #Category_2_name:  Мраморная говядина Counter_2_level: 143         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/mramornaya-govyadina
+31-Jan-20 12:59:14 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:18 - #Pages:3  #Goods:42         
+31-Jan-20 12:59:18 - #Category_2_name:  Стейки      Counter_2_level: 144         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/steyki
+31-Jan-20 12:59:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:23 - #Pages:3  #Goods:53         
+31-Jan-20 12:59:23 - #Category_2_name:  Свинина     Counter_2_level: 145         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/svinina
+31-Jan-20 12:59:23 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:24 - #Pages:1  #Goods:6          
+31-Jan-20 12:59:24 - #Category_2_name:  Баранина    Counter_2_level: 146         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/baranina
+31-Jan-20 12:59:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:26 - #Pages:1  #Goods:13         
+31-Jan-20 12:59:26 - #Category_2_name:  Телятина    Counter_2_level: 147         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/telyatina
+31-Jan-20 12:59:26 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:43 - We have similar 2 <<name=Колбаса Рублевский Докторская вареная 450г>> in 12  page!!!!!!!!!!!!!
+31-Jan-20 12:59:44 - #Pages:13 #Goods:298        
+31-Jan-20 12:59:44 - #Category_2_name:  Колбасы, ветчина Counter_2_level: 148         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/kolbasy-vetchina
+31-Jan-20 12:59:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:59:50 - #Pages:4  #Goods:85         
+31-Jan-20 12:59:50 - #Category_2_name:  Сосиски, сардельки, шпикачки Counter_2_level: 149         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/sosiski-sardelki-shpikachki
+31-Jan-20 12:59:50 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:01 - #Pages:6  #Goods:139        
+31-Jan-20 13:00:01 - #Category_2_name:  Деликатесы и копчености Counter_2_level: 150         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/delikatesy-i-kopchenosti
+31-Jan-20 13:00:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:06 - #Pages:1  #Goods:0          
+31-Jan-20 13:00:06 - #Category_2_name:  Утка, перепела Counter_2_level: 151         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/utka-perepela
+31-Jan-20 13:00:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:08 - #Pages:1  #Goods:16         
+31-Jan-20 13:00:08 - #Category_2_name:  Субпродукты Counter_2_level: 152         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/subprodukty
+31-Jan-20 13:00:08 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:14 - #Pages:4  #Goods:63         
+31-Jan-20 13:00:14 - #Category_2_name:  Полуфабрикаты Counter_2_level: 153         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/polufabrikaty
+31-Jan-20 13:00:14 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:17 - #Pages:2  #Goods:37         
+31-Jan-20 13:00:17 - #Category_2_name:  Паштеты, зельцы Counter_2_level: 154         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/pashtety-zeltsy
+31-Jan-20 13:00:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:22 - #Pages:3  #Goods:59         
+31-Jan-20 13:00:22 - #Category_2_name:  Шашлык и гриль Counter_2_level: 155         #href_2_level:https://www.perekrestok.ru/catalog/myaso-ptitsa-delikatesy/shashlyk-i-gril
+31-Jan-20 13:00:22 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:38 - #Pages:13 #Goods:273        
+31-Jan-20 13:00:38 - #Category_2_name:  На завтрак  Counter_2_level: 156         #href_2_level:https://www.perekrestok.ru/catalog/promos/vkusnye-podbroki/na-zavtrak
+31-Jan-20 13:00:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:00:56 - #Pages:14 #Goods:298        
+31-Jan-20 13:00:56 - #Category_2_name:  Перекус в школу Counter_2_level: 157         #href_2_level:https://www.perekrestok.ru/catalog/promos/vkusnye-podbroki/perekus-v-shkolu
+31-Jan-20 13:00:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:01:03 - #Pages:5  #Goods:95         
+31-Jan-20 13:01:03 - #Category_2_name:  Обед на работе Counter_2_level: 158         #href_2_level:https://www.perekrestok.ru/catalog/promos/vkusnye-podbroki/obed-na-rabote
+31-Jan-20 13:01:03 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:01:33 - #Pages:22 #Goods:504        
+31-Jan-20 13:01:33 - #Category_2_name:  На ужин     Counter_2_level: 159         #href_2_level:https://www.perekrestok.ru/catalog/promos/vkusnye-podbroki/na-ujin
+31-Jan-20 13:01:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:01:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:01:41 - We have similar 2 <<name=Вода Боржоми минеральная лечебно-столовая газированная 330мл>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:01:52 - #Pages:16 #Goods:361        
+31-Jan-20 13:01:52 - #Category_2_name:  В дорогу    Counter_2_level: 160         #href_2_level:https://www.perekrestok.ru/catalog/promos/vkusnye-podbroki/v-dorogu
+31-Jan-20 13:01:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:01:58 - #Pages:3  #Goods:24         
+31-Jan-20 13:01:58 - #Category_2_name:  Зеленая Линия Counter_2_level: 161         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/zelenaya-liniya
+31-Jan-20 13:01:58 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:10 - #Pages:10 #Goods:175        
+31-Jan-20 13:02:10 - #Category_2_name:  ВкусВилл    Counter_2_level: 162         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/vkusvill
+31-Jan-20 13:02:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:20 - #Pages:8  #Goods:166        
+31-Jan-20 13:02:20 - #Category_2_name:  Быть в форме! Counter_2_level: 163         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/byt-v-forme
+31-Jan-20 13:02:20 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:27 - #Pages:6  #Goods:118        
+31-Jan-20 13:02:27 - #Category_2_name:  Без глютена Counter_2_level: 164         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/bez-glyutena
+31-Jan-20 13:02:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:30 - #Pages:2  #Goods:26         
+31-Jan-20 13:02:30 - #Category_2_name:  Без лактозы Counter_2_level: 165         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/bez-laktozy
+31-Jan-20 13:02:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:34 - #Pages:3  #Goods:46         
+31-Jan-20 13:02:34 - #Category_2_name:  Фермерские продукты Counter_2_level: 166         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/fermerskie-produkty
+31-Jan-20 13:02:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:39 - #Pages:4  #Goods:73         
+31-Jan-20 13:02:39 - #Category_2_name:  Органические продукты Counter_2_level: 167         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/organicheskie-produkty
+31-Jan-20 13:02:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:56 - #Pages:15 #Goods:329        
+31-Jan-20 13:02:56 - #Category_2_name:  Диабетические продукты Counter_2_level: 168         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/diabeticheskie-produkty
+31-Jan-20 13:02:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:07 - #Pages:9  #Goods:174        
+31-Jan-20 13:03:07 - #Category_2_name:  Веганские продукты Counter_2_level: 169         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/veganskie-produkty
+31-Jan-20 13:03:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:17 - #Pages:7  #Goods:149        
+31-Jan-20 13:03:17 - #Category_2_name:  Низкое содержание жира Counter_2_level: 170         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/nizkoe-soderjanie-jira
+31-Jan-20 13:03:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:24 - #Pages:6  #Goods:119        
+31-Jan-20 13:03:24 - #Category_2_name:  Спортивное питание и БАД Counter_2_level: 171         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/sportivnoe-pitanie-i-bad
+31-Jan-20 13:03:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:25 - #Pages:1  #Goods:0          
+31-Jan-20 13:03:25 - #Category_2_name:  Углече Поле Counter_2_level: 172         #href_2_level:https://www.perekrestok.ru/catalog/zdorovyy-vybor/ugleche-pole
+31-Jan-20 13:03:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:27 - #Pages:2  #Goods:26         
+31-Jan-20 13:03:27 - #Category_2_name:  ВкусВилл    Counter_2_level: 173         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/vkusvill
+31-Jan-20 13:03:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:03:39 - #Pages:10 #Goods:223        
+31-Jan-20 13:03:39 - #Category_2_name:  Мороженое   Counter_2_level: 174         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/morojenoe
+31-Jan-20 13:03:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:15 - #Pages:4  #Goods:76         
+31-Jan-20 13:04:15 - #Category_2_name:  Овощи и смеси Counter_2_level: 175         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/ovoschi-i-smesi
+31-Jan-20 13:04:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:18 - #Pages:2  #Goods:31         
+31-Jan-20 13:04:18 - #Category_2_name:  Ягоды и фрукты Counter_2_level: 176         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/yagody-i-frukty
+31-Jan-20 13:04:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:28 - #Pages:8  #Goods:161        
+31-Jan-20 13:04:28 - #Category_2_name:  Пицца, вареники, пельмени, блины Counter_2_level: 177         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/pitstsa-vareniki-pelmeni-bliny
+31-Jan-20 13:04:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:32 - #Pages:3  #Goods:51         
+31-Jan-20 13:04:32 - #Category_2_name:  Котлеты, наггетсы, тесто Counter_2_level: 178         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/polufabrikaty
+31-Jan-20 13:04:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:38 - #Pages:4  #Goods:85         
+31-Jan-20 13:04:38 - #Category_2_name:  Готовые блюда Counter_2_level: 179         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/gotovye-blyuda
+31-Jan-20 13:04:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:40 - #Pages:1  #Goods:18         
+31-Jan-20 13:04:40 - #Category_2_name:  Десерты     Counter_2_level: 180         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/deserty
+31-Jan-20 13:04:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:42 - #Pages:2  #Goods:35         
+31-Jan-20 13:04:42 - #Category_2_name:  Рыба        Counter_2_level: 181         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/ryba
+31-Jan-20 13:04:42 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:46 - #Pages:3  #Goods:60         
+31-Jan-20 13:04:46 - #Category_2_name:  Морепродукты Counter_2_level: 182         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/moreprodukty
+31-Jan-20 13:04:46 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:48 - #Pages:1  #Goods:6          
+31-Jan-20 13:04:48 - #Category_2_name:  Мясо, птица и субпродукты Counter_2_level: 183         #href_2_level:https://www.perekrestok.ru/catalog/zamorojennye-produkty/myaso-i-subprodukty
+31-Jan-20 13:04:48 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:51 - #Pages:1  #Goods:18         
+31-Jan-20 13:04:51 - #Category_2_name:  Мексиканская кухня Counter_2_level: 184         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/meksikanskaya-kuhnya
+31-Jan-20 13:04:51 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:55 - #Pages:3  #Goods:63         
+31-Jan-20 13:04:55 - #Category_2_name:  Французская кухня Counter_2_level: 185         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/francuzskaya-kuhnya
+31-Jan-20 13:04:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:04:59 - #Pages:3  #Goods:49         
+31-Jan-20 13:04:59 - #Category_2_name:  Японская кухня Counter_2_level: 186         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/yaponskaya-kuhnya
+31-Jan-20 13:04:59 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:06 - #Pages:4  #Goods:70         
+31-Jan-20 13:05:06 - #Category_2_name:  Тайская кухня Counter_2_level: 187         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/taiskaya-kuhnya
+31-Jan-20 13:05:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:15 - #Pages:7  #Goods:150        
+31-Jan-20 13:05:15 - #Category_2_name:  Итальянская кухня Counter_2_level: 188         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/italyanskaya-kuhnya
+31-Jan-20 13:05:15 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:19 - #Pages:2  #Goods:24         
+31-Jan-20 13:05:19 - #Category_2_name:  Сербская кухня Counter_2_level: 189         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/serbskaya-kuhnya
+31-Jan-20 13:05:19 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:22 - #Pages:1  #Goods:22         
+31-Jan-20 13:05:22 - #Category_2_name:  Грузинская кухня Counter_2_level: 190         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/gruzinskaya-kuhnya
+31-Jan-20 13:05:22 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:27 - #Pages:3  #Goods:46         
+31-Jan-20 13:05:27 - #Category_2_name:  Армянская кухня Counter_2_level: 191         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/armyanskaya-kuhnya
+31-Jan-20 13:05:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:29 - #Pages:1  #Goods:4          
+31-Jan-20 13:05:29 - #Category_2_name:  Кошерные продукты Counter_2_level: 192         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/koshernye-produkty
+31-Jan-20 13:05:29 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:05:32 - #Pages:2  #Goods:30         
+31-Jan-20 13:05:32 - #Category_2_name:  Халяльные продукты Counter_2_level: 193         #href_2_level:https://www.perekrestok.ru/catalog/kuhni-mira/halyalnye-produkty
+31-Jan-20 13:05:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:13 - #Pages:32 #Goods:698        
+31-Jan-20 13:06:13 - #Category_2_name:  Детское питание Counter_2_level: 194         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/detskoe-pitanie
+31-Jan-20 13:06:13 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:32 - #Pages:14 #Goods:299        
+31-Jan-20 13:06:32 - #Category_2_name:  Гигиена и уход Counter_2_level: 195         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/detskaya-gigiena-i-uhod
+31-Jan-20 13:06:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:34 - #Pages:1  #Goods:14         
+31-Jan-20 13:06:34 - #Category_2_name:  Бытовая химия Counter_2_level: 196         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/bytovaya-himiya
+31-Jan-20 13:06:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:38 - #Pages:2  #Goods:44         
+31-Jan-20 13:06:38 - #Category_2_name:  Аксессуары для новорожденных Counter_2_level: 197         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/aksessuary-dlya-novorojdennyh
+31-Jan-20 13:06:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:41 - #Pages:1  #Goods:20         
+31-Jan-20 13:06:41 - #Category_2_name:  Детская посуда Counter_2_level: 198         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/detskaya-posuda
+31-Jan-20 13:06:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:03 - #Pages:14 #Goods:305        
+31-Jan-20 13:07:03 - #Category_2_name:  Игрушки     Counter_2_level: 199         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/igrushki
+31-Jan-20 13:07:03 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:06 - We have similar 2 <<name=Наклейки Yiwu onccc Patula Stickers Блестящие в ассортименте>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 13:07:06 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:06 - We have similar 2 <<name=Наклейки Yiwu onccc Patula Stickers Животные мягкие в ассортименте>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 13:07:12 - #Pages:7  #Goods:148        
+31-Jan-20 13:07:12 - #Category_2_name:  Товары для школы Counter_2_level: 200         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/tovary-dlya-shkoly
+31-Jan-20 13:07:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:13 - #Pages:1  #Goods:15         
+31-Jan-20 13:07:13 - #Category_2_name:  Спортивные товары Counter_2_level: 201         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/sportivnye-tovary
+31-Jan-20 13:07:13 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:16 - #Pages:1  #Goods:7          
+31-Jan-20 13:07:16 - #Category_2_name:  Натуральный уход за кожей Counter_2_level: 202         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-mam-i-detey/green-zone
+31-Jan-20 13:07:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:19 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:19 - We have similar 2 <<name=Очиститель двигателя GRASS Engine Cleaner 500мл>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 13:07:22 - #Pages:5  #Goods:97         
+31-Jan-20 13:07:22 - #Category_2_name:  Автотовары  Counter_2_level: 203         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/avtotovary
+31-Jan-20 13:07:22 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:25 - #Pages:2  #Goods:43         
+31-Jan-20 13:07:25 - #Category_2_name:  Товары для дома Counter_2_level: 204         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/tovary-dlya-doma
+31-Jan-20 13:07:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:27 - We have similar 2 <<name=Сковорода Tefal Ingenio Mineralia Force индукционная 26см>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 13:07:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:44 - We have similar 2 <<name=Сковорода Tefal Mineralia Force индукционная 28см>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:07:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:45 - We have similar 2 <<name=Сковорода Tefal Character индукционная 28см>> in 4  page!!!!!!!!!!!!!
+31-Jan-20 13:07:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:45 - We have similar 2 <<name=Сковорода Tefal Inspiration 28см>> in 4  page!!!!!!!!!!!!!
+31-Jan-20 13:07:45 - #Pages:4  #Goods:81         
+31-Jan-20 13:07:45 - #Category_2_name:  Кухонная посуда Counter_2_level: 205         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/kuhonnaya-posuda
+31-Jan-20 13:07:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:49 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:49 - We have similar 2 <<name=Стаканчики Гифт-Люкс из картона 200мл 6шт>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:07:55 - #Pages:9  #Goods:189        
+31-Jan-20 13:07:55 - #Category_2_name:  Сервировочная посуда Counter_2_level: 206         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/servirovochnaya-posuda
+31-Jan-20 13:07:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:01 - #Pages:4  #Goods:90         
+31-Jan-20 13:08:01 - #Category_2_name:  Товары для бани и ванной Counter_2_level: 207         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/tovary-dlya-bani-i-vannoy
+31-Jan-20 13:08:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:04 - We have similar 2 <<name=Стаканчики Гифт-Люкс из картона 200мл 6шт>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 13:08:07 - #Pages:5  #Goods:93         
+31-Jan-20 13:08:07 - #Category_2_name:  Товары для пикника Counter_2_level: 208         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/tovary-dlya-piknika
+31-Jan-20 13:08:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:23 - #Pages:13 #Goods:277        
+31-Jan-20 13:08:23 - #Category_2_name:  Кухонные принадлежности Counter_2_level: 209         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/kuhonnye-prinadlejnosti
+31-Jan-20 13:08:23 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:28 - We have similar 2 <<name=Полотенце махровое 4Clever 50*90см>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:08:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:32 - We have similar 2 <<name=Полотенце вафельное 4Clever 50*45см в ассортименте>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:08:33 - #Pages:7  #Goods:144        
+31-Jan-20 13:08:33 - #Category_2_name:  Текстиль    Counter_2_level: 210         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/tekstil-i-dekor
+31-Jan-20 13:08:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:40 - We have similar 2 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 5  page!!!!!!!!!!!!!
+31-Jan-20 13:08:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:40 - We have similar 3 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 5  page!!!!!!!!!!!!!
+31-Jan-20 13:08:46 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:46 - We have similar 2 <<name=Сетевой фильтр Эра USF-M-4es 1,5м>> in 10  page!!!!!!!!!!!!!
+31-Jan-20 13:08:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:52 - We have similar 2 <<name=Салфетки бумажные Home Story 2 слоя 20шт>> in 15  page!!!!!!!!!!!!!
+31-Jan-20 13:08:55 - #Pages:17 #Goods:362        
+31-Jan-20 13:08:55 - #Category_2_name:  Товары для уборки и ремонта Counter_2_level: 211         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/hozyaystvennye-prinadlejnosti
+31-Jan-20 13:08:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:58 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:58 - We have similar 2 <<name=Лампа светодиодная Старт LED Flame E14 7Вт>> in 2  page!!!!!!!!!!!!!
+31-Jan-20 13:09:07 - #Pages:10 #Goods:216        
+31-Jan-20 13:09:07 - #Category_2_name:  Бытовая техника и освещение Counter_2_level: 212         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/bytovaya-tehnika
+31-Jan-20 13:09:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:09 - #Pages:1  #Goods:8          
+31-Jan-20 13:09:09 - #Category_2_name:  Аксессуары для табакокурения Counter_2_level: 213         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/aksessuary-dlya-tabakokureniya
+31-Jan-20 13:09:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:11 - #Pages:2  #Goods:24         
+31-Jan-20 13:09:11 - #Category_2_name:  Система нагревания IQOS Counter_2_level: 214         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/sistema-nagrevaniya-iqos
+31-Jan-20 13:09:11 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:39 - #Pages:23 #Goods:517        
+31-Jan-20 13:09:39 - #Category_2_name:  Аксессуары для одежды и обуви Counter_2_level: 215         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/aksessuary-dlya-odejdy-i-obuvi
+31-Jan-20 13:09:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:40 - #Pages:1  #Goods:2          
+31-Jan-20 13:09:40 - #Category_2_name:  Товары для кемпинга Counter_2_level: 216         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/tovary-dlya-kempinga
+31-Jan-20 13:09:40 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:46 - #Pages:5  #Goods:91         
+31-Jan-20 13:09:46 - #Category_2_name:  Уход за садом Counter_2_level: 217         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/uhod-za-sadom
+31-Jan-20 13:09:46 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:49 - #Pages:2  #Goods:24         
+31-Jan-20 13:09:49 - #Category_2_name:  Средства для борьбы с насекомыми Counter_2_level: 218         #href_2_level:https://www.perekrestok.ru/catalog/avto-dom-sad-kuhnya/uhod-za-sadom/sredstva-dlya-borby-s-nasekomymi
+31-Jan-20 13:09:49 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:52 - #Pages:2  #Goods:40         
+31-Jan-20 13:09:52 - #Category_2_name:  Туалетная бумага Counter_2_level: 219         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/tualetnaya-bumaga
+31-Jan-20 13:09:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:10:37 - #Pages:37 #Goods:845        
+31-Jan-20 13:10:37 - #Category_2_name:  Уход за волосами Counter_2_level: 220         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/uhod-za-volosami
+31-Jan-20 13:10:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:10:56 - #Pages:15 #Goods:333        
+31-Jan-20 13:10:56 - #Category_2_name:  Уход за полостью рта Counter_2_level: 221         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/uhod-za-polostyu-rta
+31-Jan-20 13:10:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:36 - #Pages:32 #Goods:703        
+31-Jan-20 13:11:36 - #Category_2_name:  Уход за кожей Counter_2_level: 222         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/uhod-za-kojey
+31-Jan-20 13:11:36 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:38 - #Pages:1  #Goods:10         
+31-Jan-20 13:11:38 - #Category_2_name:  Декоративная косметика Counter_2_level: 223         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/dekorativnaya-kosmetika
+31-Jan-20 13:11:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:58 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:58 - We have similar 2 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 14  page!!!!!!!!!!!!!
+31-Jan-20 13:11:58 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:58 - We have similar 3 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 14  page!!!!!!!!!!!!!
+31-Jan-20 13:12:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:12:35 - We have similar 2 <<name=Салфетки бумажные Home Story 2 слоя 20шт>> in 42  page!!!!!!!!!!!!!
+31-Jan-20 13:12:41 - #Pages:47 #Goods:1067       
+31-Jan-20 13:12:41 - #Category_2_name:  Средства личной гигиены Counter_2_level: 224         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/sredstva-lichnoy-gigieny
+31-Jan-20 13:12:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:12:42 - #Pages:1  #Goods:11         
+31-Jan-20 13:12:42 - #Category_2_name:  Бумажные полотенца Counter_2_level: 225         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/bumajnye-polotentsa
+31-Jan-20 13:12:42 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:12:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:12:44 - We have similar 2 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 13:12:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:12:44 - We have similar 3 <<name=Салфетки бумажные Русская Бумага 33*33см 20шт 2 слоя>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 13:12:44 - #Pages:1  #Goods:17         
+31-Jan-20 13:12:44 - #Category_2_name:  Бумажные салфетки Counter_2_level: 226         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/bumajnye-salfetki
+31-Jan-20 13:12:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:00 - #Pages:12 #Goods:264        
+31-Jan-20 13:13:00 - #Category_2_name:  Стирка и уход за бельем Counter_2_level: 227         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/stirka-i-uhod-za-belem
+31-Jan-20 13:13:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:21 - #Pages:17 #Goods:378        
+31-Jan-20 13:13:21 - #Category_2_name:  Чистящие средства Counter_2_level: 228         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/chistyaschie-sredstva
+31-Jan-20 13:13:21 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:26 - #Pages:4  #Goods:70         
+31-Jan-20 13:13:26 - #Category_2_name:  Ароматизаторы для дома Counter_2_level: 229         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/aromatizatory-dlya-doma
+31-Jan-20 13:13:26 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:45 - #Pages:19 #Goods:377        
+31-Jan-20 13:13:45 - #Category_2_name:  Натуральный уход за телом Counter_2_level: 230         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/green-zone
+31-Jan-20 13:13:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:47 - #Pages:1  #Goods:0          
+31-Jan-20 13:13:47 - #Category_2_name:  Zewa        Counter_2_level: 231         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/zewa
+31-Jan-20 13:13:47 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:49 - #Pages:1  #Goods:8          
+31-Jan-20 13:13:49 - #Category_2_name:  Tena        Counter_2_level: 232         #href_2_level:https://www.perekrestok.ru/catalog/krasota-gigiena-bytovaya-himiya/tena
+31-Jan-20 13:13:49 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:52 - We have similar 2 <<name=Сковорода Tefal Ingenio Mineralia Force индукционная 26см>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 13:13:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:54 - We have similar 2 <<name=Сковорода Tefal Mineralia Force индукционная 28см>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:13:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:54 - We have similar 2 <<name=Сковорода Tefal Character индукционная 28см>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:13:55 - #Pages:4  #Goods:74         
+31-Jan-20 13:13:55 - #Category_2_name:  Кухонная посуда Counter_2_level: 233         #href_2_level:https://www.perekrestok.ru/catalog/posuda/kuhonnaya-posuda
+31-Jan-20 13:13:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:14:03 - #Pages:7  #Goods:156        
+31-Jan-20 13:14:03 - #Category_2_name:  Кухонные принадлежности Counter_2_level: 234         #href_2_level:https://www.perekrestok.ru/catalog/posuda/kuhonnye-prinadlejnosti
+31-Jan-20 13:14:03 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:14:42 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:14:42 - We have similar 2 <<name=Вино Antico Italiano Chianti красное сухое 12,5% 0,75л>> in 25  page!!!!!!!!!!!!!
+31-Jan-20 13:14:53 - #Pages:32 #Goods:757        
+31-Jan-20 13:14:53 - #Category_2_name:  Вино        Counter_2_level: 235         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/vino
+31-Jan-20 13:14:53 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:14:56 - #Pages:1  #Goods:14         
+31-Jan-20 13:14:56 - #Category_2_name:  Вермуты     Counter_2_level: 236         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/vermuty
+31-Jan-20 13:14:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:05 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:05 - We have similar 2 <<name=Водка Сиббиттер 40% 0,5л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:05 - #Pages:6  #Goods:142        
+31-Jan-20 13:15:05 - #Category_2_name:  Водка       Counter_2_level: 237         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/vodka
+31-Jan-20 13:15:05 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:12 - #Pages:5  #Goods:114        
+31-Jan-20 13:15:12 - #Category_2_name:  Виски, Бурбон Counter_2_level: 238         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/viski-burbon
+31-Jan-20 13:15:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:14 - #Pages:1  #Goods:2          
+31-Jan-20 13:15:14 - #Category_2_name:  Абсент      Counter_2_level: 239         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/absent
+31-Jan-20 13:15:14 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:16 - #Pages:1  #Goods:14         
+31-Jan-20 13:15:16 - #Category_2_name:  Текила      Counter_2_level: 240         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/tekila
+31-Jan-20 13:15:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:17 - #Pages:1  #Goods:9          
+31-Jan-20 13:15:17 - #Category_2_name:  Джин        Counter_2_level: 241         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/djin
+31-Jan-20 13:15:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:25 - #Pages:6  #Goods:142        
+31-Jan-20 13:15:25 - #Category_2_name:  Шампанское, игристые вина Counter_2_level: 242         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/shampanskoe-igristye-vina
+31-Jan-20 13:15:25 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:33 - #Pages:5  #Goods:103        
+31-Jan-20 13:15:33 - #Category_2_name:  Ликеро-водочные напитки Counter_2_level: 243         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/likero-vodochnye-napitki
+31-Jan-20 13:15:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:43 - We have similar 2 <<name=Коньяк Российский Пять звездочек 5 лет 40% 0,5л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:43 - #Pages:7  #Goods:145        
+31-Jan-20 13:15:43 - #Category_2_name:  Коньяк и коньячные напитки Counter_2_level: 244         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/konyak-i-konyachnye-napitki
+31-Jan-20 13:15:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:48 - #Pages:3  #Goods:69         
+31-Jan-20 13:15:48 - #Category_2_name:  Слабоалкогольные напитки Counter_2_level: 245         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/slaboalkogolnye-napitki
+31-Jan-20 13:15:48 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:50 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:50 - We have similar 2 <<name=Пиво Балтика №9 Крепкое 8% 0,45л>> in 1  page!!!!!!!!!!!!!
+31-Jan-20 13:15:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:52 - We have similar 2 <<name=Пиво Krusovice Imperial 5% 0,5л>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:15:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:52 - We have similar 2 <<name=Пиво Cernovar Cerne 4,5% 0,5л>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:15:52 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:52 - We have similar 2 <<name=Пиво Grolsch Premium Lager 4,9% 0,5л>> in 3  page!!!!!!!!!!!!!
+31-Jan-20 13:15:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:54 - We have similar 2 <<name=Пиво Bud 5% 0,75л>> in 4  page!!!!!!!!!!!!!
+31-Jan-20 13:15:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:54 - We have similar 2 <<name=Пиво Spaten Munchen Hell 5,2% 0,5л>> in 4  page!!!!!!!!!!!!!
+31-Jan-20 13:15:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:55 - We have similar 2 <<name=Пиво Балтика №3 Классическое 4,8% 0,45л>> in 5  page!!!!!!!!!!!!!
+31-Jan-20 13:15:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:56 - We have similar 2 <<name=Пиво Efes Pilsener 5% 0,45л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:56 - We have similar 2 <<name=Пиво Золотая Бочка Классическое 5,2% 0,45л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:56 - We have similar 2 <<name=Пиво Золотая Бочка Светлое 4,7% 0,45л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:56 - We have similar 2 <<name=Пиво Gosser 4,7% 0,45л>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:15:59 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:59 - We have similar 2 <<name=Пиво Hollandia 4,8% 0,45л>> in 9  page!!!!!!!!!!!!!
+31-Jan-20 13:16:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:00 - We have similar 2 <<name=Пиво Wolpertinger Das Traditionelle Helle 4,9% 0,5л>> in 10  page!!!!!!!!!!!!!
+31-Jan-20 13:16:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:00 - We have similar 2 <<name=Пиво Wolpertinger Naturtrubes Hefeweissbier 5,4% 0,5л>> in 10  page!!!!!!!!!!!!!
+31-Jan-20 13:16:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:01 - We have similar 2 <<name=Пиво Paulaner Munchner Hell 4,9% 0,5л>> in 11  page!!!!!!!!!!!!!
+31-Jan-20 13:16:04 - #Pages:14 #Goods:311        
+31-Jan-20 13:16:04 - #Category_2_name:  Пиво        Counter_2_level: 246         #href_2_level:https://www.perekrestok.ru/catalog/alkogol/pivo
+31-Jan-20 13:16:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:07 - #Pages:1  #Goods:0          
+31-Jan-20 13:16:07 - #Category_2_name:  Товары Бетховен Counter_2_level: 247         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/tovary-bethoven
+31-Jan-20 13:16:07 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:46 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:16:46 - We have similar 2 <<name=Корм для кошек Pro Cat Говядина 100г>> in 23  page!!!!!!!!!!!!!
+31-Jan-20 13:17:17 - #Pages:43 #Goods:991        
+31-Jan-20 13:17:17 - #Category_2_name:  Для кошек   Counter_2_level: 248         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/dlya-koshek
+31-Jan-20 13:17:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:18:55 - #Pages:59 #Goods:1364       
+31-Jan-20 13:18:55 - #Category_2_name:  Для собак   Counter_2_level: 249         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/dlya-sobak
+31-Jan-20 13:18:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:16 - #Pages:12 #Goods:257        
+31-Jan-20 13:19:16 - #Category_2_name:  Для грызунов Counter_2_level: 250         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/dlya-gryzunov
+31-Jan-20 13:19:16 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:27 - We have similar 2 <<name=Корм для птиц Padovan для средних попугаев 850г>> in 6  page!!!!!!!!!!!!!
+31-Jan-20 13:19:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:28 - We have similar 2 <<name=Игрушка для птиц Penn Plax Подвеска текстильная>> in 7  page!!!!!!!!!!!!!
+31-Jan-20 13:19:30 - #Pages:8  #Goods:164        
+31-Jan-20 13:19:30 - #Category_2_name:  Для птиц    Counter_2_level: 251         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/dlya-ptits
+31-Jan-20 13:19:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:55 - #Pages:16 #Goods:358        
+31-Jan-20 13:19:55 - #Category_2_name:  Для рыб и рептилий Counter_2_level: 252         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/dlya-ryb-i-reptiliy
+31-Jan-20 13:19:55 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:20:03 - #Pages:4  #Goods:94         
+31-Jan-20 13:20:03 - #Category_2_name:  Ветаптека   Counter_2_level: 253         #href_2_level:https://www.perekrestok.ru/catalog/tovary-dlya-jivotnyh/vetapteka
+31-Jan-20 13:20:03 - --------------------------------------------------------------------------------------------------------------------------------------------------

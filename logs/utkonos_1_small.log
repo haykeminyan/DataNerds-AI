@@ -1,0 +1,411 @@
+31-Jan-20 12:40:06 - The length of array with categories_names is: 23
+31-Jan-20 12:40:06 - The length of array with categories_href is: 23
+31-Jan-20 12:40:06 - Category: ['Новинки', 'Наша марка', 'Овощи, фрукты, ягоды, зелень, грибы', 'Молоко, сыр, яйцо', 'Мясо, птица, колбасы', 'Рыба, икра, морепродукты', 'Крупы, масло, консервы, соусы, орехи', 'Вода, соки, напитки', 'Хлеб, торты, сладости', 'Чай, кофе, какао', 'Детское питание, уход, игрушки', 'Замороженные продукты, мороженое', 'Готовые блюда, наборы для приготовления', 'Здоровое питание, экологичные товары', 'ВкусВилл', 'Стирка, уборка, уход за обувью', 'Косметика, личная гигиена', 'Зоомагазин', 'Товары для дома, дачи, авто', 'Спортивное питание, аксессуары', 'Канцтовары, все для праздника,  журналы', 'Аптека', 'Любимые бренды']
+31-Jan-20 12:40:06 - The dict with names and hrefs is written
+31-Jan-20 12:40:24 - https://www.utkonos.ru/cat/4515 #Pages:12            #Goods:372        
+31-Jan-20 12:40:24 - Category name: Новинки, Counter 1
+31-Jan-20 12:40:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:40:28 - https://www.utkonos.ru/cat/5526 #Pages:3             #Goods:84         
+31-Jan-20 12:40:28 - Category name: Наша марка, Counter 2
+31-Jan-20 12:40:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:41:26 - https://www.utkonos.ru/cat/27 #Pages:37            #Goods:1106       
+31-Jan-20 12:41:26 - Category name: Овощи, фрукты, ягоды, зелень, грибы, Counter 3
+31-Jan-20 12:41:26 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:44:44 - https://www.utkonos.ru/cat/10 #Pages:91            #Goods:2718       
+31-Jan-20 12:44:44 - Category name: Молоко, сыр, яйцо, Counter 4
+31-Jan-20 12:44:44 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:45:18 - Connection error!  HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 372, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 374, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 370, in send
+    timeout=timeout
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 597, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/util/retry.py", line 245, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/packages/six.py", line 310, in reraise
+    raise value
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 544, in urlopen
+    body=body, headers=headers)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 304, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "utka_with_1_level(small).py", line 28, in switcher
+    ip = requests.get(href_addr,timeout=20).text
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 69, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 50, in request
+    response = session.request(method=method, url=url, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 465, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 433, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+31-Jan-20 12:46:12 - https://www.utkonos.ru/cat/7 #Pages:44            #Goods:1314       
+31-Jan-20 12:46:12 - Category name: Мясо, птица, колбасы, Counter 5
+31-Jan-20 12:46:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:46:39 - https://www.utkonos.ru/cat/77 #Pages:19            #Goods:573        
+31-Jan-20 12:46:39 - Category name: Рыба, икра, морепродукты, Counter 6
+31-Jan-20 12:46:39 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:52:24 - https://www.utkonos.ru/cat/40 #Pages:141           #Goods:4207       
+31-Jan-20 12:52:24 - Category name: Крупы, масло, консервы, соусы, орехи, Counter 7
+31-Jan-20 12:52:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:53:27 - https://www.utkonos.ru/cat/65 #Pages:38            #Goods:1134       
+31-Jan-20 12:53:27 - Category name: Вода, соки, напитки, Counter 8
+31-Jan-20 12:53:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:56:30 - https://www.utkonos.ru/cat/52 #Pages:91            #Goods:2726       
+31-Jan-20 12:56:30 - Category name: Хлеб, торты, сладости, Counter 9
+31-Jan-20 12:56:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:54 - We have similar 2 <<name=Кофе Woseba Cafe Brasil натуральный жареный молотый 0,25кг>> in 47   page!!!!!!!!!!!!!
+31-Jan-20 12:57:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 12:57:54 - We have similar 2 <<name=Кофе Woseba Crema Gold натуральный жареный молотый 0,25кг>> in 47   page!!!!!!!!!!!!!
+31-Jan-20 12:58:00 - https://www.utkonos.ru/cat/4405 #Pages:51            #Goods:1500       
+31-Jan-20 12:58:00 - Category name: Чай, кофе, какао, Counter 10
+31-Jan-20 12:58:00 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:02:59 - Connection error!  HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 372, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 374, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 370, in send
+    timeout=timeout
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 597, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/util/retry.py", line 245, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/packages/six.py", line 310, in reraise
+    raise value
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 544, in urlopen
+    body=body, headers=headers)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 304, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "utka_with_1_level(small).py", line 28, in switcher
+    ip = requests.get(href_addr,timeout=20).text
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 69, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 50, in request
+    response = session.request(method=method, url=url, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 465, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 433, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+31-Jan-20 13:06:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:33 - We have similar 2 <<name=Соска Tommee Tippee для антиколиковой бутылочки Close to nature, 2шт>> in 135   page!!!!!!!!!!!!!
+31-Jan-20 13:06:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:33 - We have similar 2 <<name=Соска Tommee Tippee для бутылочки Close to nature с 0 месяцев, 2шт>> in 135   page!!!!!!!!!!!!!
+31-Jan-20 13:06:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:33 - We have similar 2 <<name=Соска-пустышка силиконовая Avent Philips ортодонтическая 6-18 месяцев 2шт>> in 135   page!!!!!!!!!!!!!
+31-Jan-20 13:06:33 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:06:33 - We have similar 3 <<name=Соска-пустышка силиконовая Avent Philips ортодонтическая 6-18 месяцев 2шт>> in 135   page!!!!!!!!!!!!!
+31-Jan-20 13:07:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:07:56 - We have similar 2 <<name=Книга Коллекция новогодних наклеек Изд, Росмэн>> in 158   page!!!!!!!!!!!!!
+31-Jan-20 13:08:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:08:01 - We have similar 2 <<name=Книга Найди и покажи, малыш, Новый год Изд, Clever>> in 160   page!!!!!!!!!!!!!
+31-Jan-20 13:09:24 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:24 - We have similar 2 <<name=Набор игровой 1toy Хома Дома Хомячим на природе>> in 184   page!!!!!!!!!!!!!
+31-Jan-20 13:09:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:27 - We have similar 2 <<name=Набор игровой Markwins Princess детской декоративной косметики в замке>> in 185   page!!!!!!!!!!!!!
+31-Jan-20 13:09:56 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:09:56 - We have similar 2 <<name=Пазл Transformers Бамблби + постер>> in 193   page!!!!!!!!!!!!!
+31-Jan-20 13:10:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:10:34 - We have similar 2 <<name=Соска-пустышка силиконовая Avent Philips ортодонтическая 0-6 месяцев 2шт>> in 203   page!!!!!!!!!!!!!
+31-Jan-20 13:10:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:10:37 - We have similar 2 <<name=Трансформер 2в1 Bondibon Мы роботы космические машины>> in 204   page!!!!!!!!!!!!!
+31-Jan-20 13:10:49 - https://www.utkonos.ru/cat/907 #Pages:208           #Goods:6219       
+31-Jan-20 13:10:49 - Category name: Детское питание, уход, игрушки, Counter 11
+31-Jan-20 13:10:49 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:30 - https://www.utkonos.ru/cat/98 #Pages:29            #Goods:851        
+31-Jan-20 13:11:30 - Category name: Замороженные продукты, мороженое, Counter 12
+31-Jan-20 13:11:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:11:42 - https://www.utkonos.ru/cat/4472 #Pages:10            #Goods:283        
+31-Jan-20 13:11:42 - Category name: Готовые блюда, наборы для приготовления, Counter 13
+31-Jan-20 13:11:42 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:18 - https://www.utkonos.ru/cat/4494 #Pages:53            #Goods:1581       
+31-Jan-20 13:13:18 - Category name: Здоровое питание, экологичные товары, Counter 14
+31-Jan-20 13:13:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:13:34 - https://www.utkonos.ru/cat/5249 #Pages:14            #Goods:396        
+31-Jan-20 13:13:34 - Category name: ВкусВилл, Counter 15
+31-Jan-20 13:13:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:15:27 - https://www.utkonos.ru/cat/248 #Pages:63            #Goods:1856       
+31-Jan-20 13:15:27 - Category name: Стирка, уборка, уход за обувью, Counter 16
+31-Jan-20 13:15:27 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:17:25 - Connection error!  HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 372, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 374, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 370, in send
+    timeout=timeout
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 597, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/util/retry.py", line 245, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/packages/six.py", line 310, in reraise
+    raise value
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 544, in urlopen
+    body=body, headers=headers)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 304, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "utka_with_1_level(small).py", line 28, in switcher
+    ip = requests.get(href_addr,timeout=20).text
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 69, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 50, in request
+    response = session.request(method=method, url=url, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 465, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 433, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+31-Jan-20 13:19:30 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:19:30 - We have similar 2 <<name=Шампунь Gliss Kur Жидкий шелк для ломких, лишенных блеска волос 400мл>> in 63   page!!!!!!!!!!!!!
+31-Jan-20 13:23:02 - Connection error!  HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 372, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 374, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.7/http/client.py", line 1344, in getresponse
+    response.begin()
+  File "/usr/lib/python3.7/http/client.py", line 306, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.7/http/client.py", line 267, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.7/ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.7/ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 370, in send
+    timeout=timeout
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 597, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/util/retry.py", line 245, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/packages/six.py", line 310, in reraise
+    raise value
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 544, in urlopen
+    body=body, headers=headers)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 376, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/packages/urllib3/connectionpool.py", line 304, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "utka_with_1_level(small).py", line 28, in switcher
+    ip = requests.get(href_addr,timeout=20).text
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 69, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/api.py", line 50, in request
+    response = session.request(method=method, url=url, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 465, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/sessions.py", line 573, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/morningstar/.local/lib/python3.7/site-packages/requests/adapters.py", line 433, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.utkonos.ru', port=443): Read timed out. (read timeout=20)
+31-Jan-20 13:24:20 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:24:20 - We have similar 2 <<name=Набор подарочный Le Petit Marseillais Гель для душа 0,25л и мыло 90г>> in 137   page!!!!!!!!!!!!!
+31-Jan-20 13:25:43 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:25:43 - We have similar 2 <<name=Мыло жидкое Protex Fresh Антибактериальное 0,3л>> in 161   page!!!!!!!!!!!!!
+31-Jan-20 13:26:28 - https://www.utkonos.ru/cat/1722 #Pages:174           #Goods:5185       
+31-Jan-20 13:26:28 - Category name: Косметика, личная гигиена, Counter 17
+31-Jan-20 13:26:28 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:26:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:26:37 - We have similar 2 <<name=Корм влажный для кошек Whiskas желе с курицей, 28*85г>> in 2   page!!!!!!!!!!!!!
+31-Jan-20 13:26:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:26:37 - We have similar 2 <<name=Корм для кошек Whiskas паштет с уткой 24*85г>> in 2   page!!!!!!!!!!!!!
+31-Jan-20 13:28:45 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:28:45 - We have similar 2 <<name=Корм сухой Pro Plan Optidigest(R) для взрослых собак мелких и карликовых пород с чувствительным пищеварением с ягненком>> in 52   page!!!!!!!!!!!!!
+31-Jan-20 13:29:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:29:09 - We have similar 2 <<name=Корм сухой Pro Plan Optidigest(R) для взрослых собак крупных пород с атлетическим телосложением с чувствительным пищевар>> in 60   page!!!!!!!!!!!!!
+31-Jan-20 13:29:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:29:09 - We have similar 2 <<name=Корм сухой беззерновой Pro Plan(R) Optidigest(R) Grain Free Formula для взрослых собак мелких и карликовых пород с чувст>> in 60   page!!!!!!!!!!!!!
+31-Jan-20 13:29:09 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:29:09 - We have similar 3 <<name=Корм сухой беззерновой Pro Plan(R) Optidigest(R) Grain Free Formula для взрослых собак мелких и карликовых пород с чувст>> in 60   page!!!!!!!!!!!!!
+31-Jan-20 13:29:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:29:34 - We have similar 2 <<name=Корм сухой беззерновой Pro Plan(R) Optidigest(R) Grain Free Formula для взрослых собак средних и крупных пород с чувстви>> in 70   page!!!!!!!!!!!!!
+31-Jan-20 13:29:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:29:34 - We have similar 3 <<name=Корм сухой беззерновой Pro Plan(R) Optidigest(R) Grain Free Formula для взрослых собак средних и крупных пород с чувстви>> in 70   page!!!!!!!!!!!!!
+31-Jan-20 13:29:41 - https://www.utkonos.ru/cat/421 #Pages:73            #Goods:2166       
+31-Jan-20 13:29:41 - Category name: Зоомагазин, Counter 18
+31-Jan-20 13:29:41 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:31:32 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:31:32 - We have similar 2 <<name=Контейнер Me to You для бутербродов с аппликацией 140*140*75мм>> in 33   page!!!!!!!!!!!!!
+31-Jan-20 13:32:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:32:10 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет серый размер 40/41>> in 44   page!!!!!!!!!!!!!
+31-Jan-20 13:32:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:32:10 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет серый размер 42/43>> in 44   page!!!!!!!!!!!!!
+31-Jan-20 13:32:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:32:10 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет серый размер 44/45>> in 44   page!!!!!!!!!!!!!
+31-Jan-20 13:32:10 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:32:10 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет серый размер 46/47>> in 44   page!!!!!!!!!!!!!
+31-Jan-20 13:32:54 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:32:54 - We have similar 2 <<name=Набор контейнеров Guffman с вакуумной крышкой 0,85л 0,6л 0,25л>> in 57   page!!!!!!!!!!!!!
+31-Jan-20 13:33:02 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:33:02 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет синий размер 42/43>> in 59   page!!!!!!!!!!!!!
+31-Jan-20 13:33:02 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:33:02 - We have similar 2 <<name=Обувь домашняя De Fonseca Roma Top мужская цвет синий размер 44/45>> in 59   page!!!!!!!!!!!!!
+31-Jan-20 13:33:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:33:12 - We have similar 2 <<name=Прихватка Волшебная Ночь Apelt 20*20>> in 61   page!!!!!!!!!!!!!
+31-Jan-20 13:33:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:33:35 - We have similar 2 <<name=Керамическая банка с крышкой Guffman розовая маленькая 0,6л>> in 68   page!!!!!!!!!!!!!
+31-Jan-20 13:33:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:33:35 - We have similar 2 <<name=Керамическая банка с крышкой Guffman розовая большая 1л>> in 68   page!!!!!!!!!!!!!
+31-Jan-20 13:34:01 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:01 - We have similar 2 <<name=Набор салатников Wilmax 11см 2шт>> in 77   page!!!!!!!!!!!!!
+31-Jan-20 13:34:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:12 - We have similar 2 <<name=Плед Verossa 150*190>> in 80   page!!!!!!!!!!!!!
+31-Jan-20 13:34:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:12 - We have similar 2 <<name=Плед Verossa 180*190>> in 80   page!!!!!!!!!!!!!
+31-Jan-20 13:34:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:12 - We have similar 3 <<name=Плед Verossa 180*190>> in 80   page!!!!!!!!!!!!!
+31-Jan-20 13:34:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:12 - We have similar 4 <<name=Плед Verossa 180*190>> in 80   page!!!!!!!!!!!!!
+31-Jan-20 13:34:12 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:12 - We have similar 2 <<name=Плед Verossa 220*190>> in 80   page!!!!!!!!!!!!!
+31-Jan-20 13:34:18 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:18 - We have similar 2 <<name=Полотенце Verossa Stripe 50*90>> in 82   page!!!!!!!!!!!!!
+31-Jan-20 13:34:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:35 - We have similar 2 <<name=Фонарь Energizer налобный светодиодный>> in 87   page!!!!!!!!!!!!!
+31-Jan-20 13:34:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:35 - We have similar 2 <<name=Фонарь налобный GP Batteries>> in 87   page!!!!!!!!!!!!!
+31-Jan-20 13:34:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:35 - We have similar 2 <<name=Форма Guffman для выпечки силиконовая голубая>> in 87   page!!!!!!!!!!!!!
+31-Jan-20 13:34:35 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:35 - We have similar 2 <<name=Форма Guffman для выпечки силиконовая красная>> in 87   page!!!!!!!!!!!!!
+31-Jan-20 13:34:37 - https://www.utkonos.ru/cat/320 #Pages:88            #Goods:3343       
+31-Jan-20 13:34:37 - Category name: Товары для дома, дачи, авто, Counter 19
+31-Jan-20 13:34:37 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:34:51 - https://www.utkonos.ru/cat/5762 #Pages:11            #Goods:313        
+31-Jan-20 13:34:51 - Category name: Спортивное питание, аксессуары, Counter 20
+31-Jan-20 13:34:51 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:35:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:35:38 - We have similar 2 <<name=Ежедневник Mazari недатированный Россия3 А6 256 страниц твердая обложка>> in 19   page!!!!!!!!!!!!!
+31-Jan-20 13:36:17 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:36:17 - We have similar 2 <<name=Набор Magic Home для оформления подарков: декоративный бант 1,2х6см (2шт), декор,лента>> in 35   page!!!!!!!!!!!!!
+31-Jan-20 13:36:26 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:36:26 - We have similar 2 <<name=Пенал на молнии Tiger Enterprise 25 предметов, 22x15см>> in 38   page!!!!!!!!!!!!!
+31-Jan-20 13:36:34 - https://www.utkonos.ru/cat/5542 #Pages:41            #Goods:1231       
+31-Jan-20 13:36:34 - Category name: Канцтовары, все для праздника,  журналы, Counter 21
+31-Jan-20 13:36:34 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:39:03 - https://www.utkonos.ru/cat/606 #Pages:53            #Goods:1668       
+31-Jan-20 13:39:03 - Category name: Аптека, Counter 22
+31-Jan-20 13:39:04 - --------------------------------------------------------------------------------------------------------------------------------------------------
+31-Jan-20 13:42:38 - https://www.utkonos.ru/cat/681 #Pages:105           #Goods:3127       
+31-Jan-20 13:42:38 - Category name: Любимые бренды, Counter 23
+31-Jan-20 13:42:38 - --------------------------------------------------------------------------------------------------------------------------------------------------
