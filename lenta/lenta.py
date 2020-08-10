@@ -142,6 +142,7 @@ def parsing_single_html(href_addr):
             dict_checker_double_names[z] = 1
         else:
             names[i] += '_'+str(dict_checker_double_names[z])
+            dict_checker_double_names[z]+=1
             logging.info(
                 '--------------------------------------------------------------------------------------------------------')
             logging.error(
