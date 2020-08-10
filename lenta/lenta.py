@@ -118,7 +118,6 @@ for a, b in first_level_category.items():
 f.write(str(dict_res))
 
 
-
 def parsing_single_html(href_addr):
     result = {}
     soup = BeautifulSoup(clicker(href_addr), "html.parser")
@@ -131,7 +130,7 @@ def parsing_single_html(href_addr):
             names.append(j.text.strip().replace('.', ','))
         for k in i.find_all(class_='sku-price--primary'):
             for l in k.find_all(class_='sku-price__integer'):
-                rouble.append(l.text.strip().replace('\xa0',''))
+                rouble.append(l.text.strip().replace('\xa0', ''))
             for m in k.find_all(class_="sku-price__fraction"):
                 penny.append(m.text.strip())
     cost_str = [i+'.'+j for i, j in zip(rouble, penny)]
@@ -149,7 +148,8 @@ def parsing_single_html(href_addr):
                 'We have similar {} <<name={}>>!!!!!!!!!!!!!'.format(names[i], i))
     dict_main = dict(zip(names, cost_float))
     result = {**result, **dict_main}
-    logging.info('-------------------------------------------------------------------------------------------------------')
+    logging.info(
+        '-------------------------------------------------------------------------------------------------------')
     logging.info('{:<11} #Goods:{:<11}'.format(
         str(href_addr), str(len(result))))
     return result
@@ -164,9 +164,11 @@ for i, j in dict_res.items():
         browser.get(m)
         time.sleep(2)
         try:
-            browser.find_element_by_css_selector('body > div.scroll-lock > div.modals-container > div > div > div > div.store-notification.current-store__tooltip-content > div > div.store-notification__buttons > button.button.button--primary.button--small.store-notification__button.store-notification__button--submit').click()
+            browser.find_element_by_css_selector(
+                'body > div.scroll-lock > div.modals-container > div > div > div > div.store-notification.current-store__tooltip-content > div > div.store-notification__buttons > button.button.button--primary.button--small.store-notification__button.store-notification__button--submit').click()
             time.sleep(2)
-            browser.find_element_by_css_selector('body > div.scroll-lock > div.modals-container > div > div > div > div.store-notification.current-store__tooltip-content > div > div.store-notification__buttons > button.button.button--primary.button--small.store-notification__button.store-notification__button--submit').click()
+            browser.find_element_by_css_selector(
+                'body > div.scroll-lock > div.modals-container > div > div > div > div.store-notification.current-store__tooltip-content > div > div.store-notification__buttons > button.button.button--primary.button--small.store-notification__button.store-notification__button--submit').click()
         except:
             pass
         clicker(m)
