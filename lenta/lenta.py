@@ -48,7 +48,7 @@ ips_arr = [faker.ipv4() for i in range(3000)]
 def switcher(href_addr):
     while True:
         try:
-            ip = requests.get(href_addr, proxies={"http": "http//" + str(ips_arr[randint(1, 3000)]) + ":" + str(
+            ip = requests.get(href_addr, proxies={"http": "http://" + str(ips_arr[randint(1, 3000)]) + ":" + str(
                 ports[randint(0, 9000)])}, headers=headers, cookies={'one': str(ua.random)}, timeout=10)
             print(ip)
             break
