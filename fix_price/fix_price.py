@@ -7,7 +7,6 @@ from pymongo import MongoClient
 import datetime
 from collections import Counter
 import logging
-import grequests
 from itertools import cycle
 
 client = MongoClient('localhost', 27017)
